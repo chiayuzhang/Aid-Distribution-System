@@ -1,0 +1,16 @@
+D4,012345693,Blanket,3,N2,5,Reserved
+D1,012456789,Water,3,N1,10,Collected
+D1,012456789,Water,2,N4,20,Reserved
+D1,012456789,Biscuit,3,N1,10,Collected
+D2,019567890,Biscuit,2,N1,10,Collected
+D1,012456789,Rice,10,N1,10,Collected
+D2,019567890,Rice,2,N1,10,Collected
+D2,019567890,Rice,18,N2,5,Reserved
+D3,014567893,Rice,12,N2,5,Reserved
+D3,014567893,Rice,11,N3,30,Collected
+D4,012345693,Rice,14,N3,30,Collected
+D4,012345693,Rice,1,N4,20,Reserved
+D5,012457657,Rice,17,N4,20,Reserved
+D5,012457657,Rice,5,N5,15,Reserved
+D5,012457657,Rice,13,-,0,Available
+D8,014984738,Rice,20,-,0,Available
